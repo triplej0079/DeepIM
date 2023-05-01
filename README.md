@@ -1,4 +1,4 @@
-# submission2
+# GenIM
 
 The code has been tested under Pytorch 1.8
 
